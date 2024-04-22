@@ -2,7 +2,7 @@ Combination of different settings collected from different sources to easily con
 
 Install xterm and/or uxterm, zsh and set is as the default shell. Also install powerlevel10k:
 
-$ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k #(clone it into ~/Sources or change the settings in the config files)
+$ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k #(clone it into ~/ or change the settings in the config files)
 
 How to configure xterm:
 
