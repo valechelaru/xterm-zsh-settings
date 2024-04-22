@@ -4,6 +4,10 @@ Install xterm and/or uxterm, zsh and set is as the default shell. Also install p
 
 $ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k #(clone it into ~/ or change the settings in the config files)
 
+To rerun the configuration of powerlevel10k use this command:
+
+$ p10k configure
+
 How to configure xterm:
 
 $ xrdb -merge ~/.Xdefaults
